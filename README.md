@@ -28,4 +28,4 @@ Most of code for this Module is based from two main sources:
 * https://hakkoda.udemy.com/course/finance-data-with-python-and-pandas/ 
 * https://realpython.com/pandas-merge-join-and-concat/ 
 
-Is advised to take a look of them, besides the links included in the notebooks in case you want to dig dipper in these topics!
+Is advised to take a look of them, besides the links included in the notebooks, in case you want to dig dipper in these topics!
