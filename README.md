@@ -17,6 +17,9 @@ Welcome to the pandas and numpy Module. This module consists of the following le
 
 * [04_Pandas_Intermediate_3](Lessons/04_Pandas_Intermediate_3.ipynb) 
     * Handling NA values
+    * Changing dtypes
+    * Summary Statistics and Accumulations
+    * The agg() method
 
 * [05_Pandas_Advanced](Lessons/05_Pandas_Advanced.ipynb) 
     * Manipulating Elements in a DataFrame
